@@ -1,0 +1,19 @@
+{
+  "name": "propbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rahul-algoscale/Propbot.git"
+  },
+  "author": "Rahul Kumar Mandal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rahul-algoscale/Propbot/issues"
+  },
+  "homepage": "https://github.com/Rahul-algoscale/Propbot#readme"
+}
